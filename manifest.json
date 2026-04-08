@@ -1,10 +1,11 @@
 {
-  "name": "FIT RAYA 2026 ERS",
-  "short_name": "ERS",
-  "start_url": "https://github.com/nurientuah/FIT-RAYA2026-ERS",
+  "name": "FIT RAYA 2026 Event Registration",
+  "short_name": "FIT RAYA ERS",
+  "start_url": "/FIT-RAYA2026-ICON/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#6366f1",
+  "orientation": "portrait",
   "icons": [
     {
       "src": "icon.png",
